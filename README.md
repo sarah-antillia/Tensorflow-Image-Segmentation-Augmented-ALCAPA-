@@ -1,5 +1,7 @@
 <h2>Tensorflow-Image-Segmentation-Augmented-ALCAPA (2025/02/15)</h2>
 
+Sarah T. Arai<br> 
+Software Laboratory antillia.com<br><br>
 This is the first experiment of Image Segmentation for <b>ALCAPA (Anomalous Left Coronary Artery from Pulmonary Artery)</b>
  based on 
 the latest <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
