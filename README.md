@@ -97,7 +97,7 @@ respectively, in the axial view. The segmentation labeling is performed by a tea
 Please see also:<br>
 <a href="https://ieeexplore.ieee.org/document/9994951">
 <b>ImageALCAPA: A 3D Computed Tomography Image Dataset for Automatic Segmentation of Anomalous Left Coronary Artery from Pulmonary Artery
-</b><br><br>
+</b></a><br><br>
 <b>License</b><br>
 <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>
 <br>
