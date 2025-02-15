@@ -134,9 +134,9 @@ On the derivation of this ImageMask Dataset, please refer to the following Pytho
 <b>ALCAPA Dataset Statistics</b><br>
 <img src ="./projects/TensorflowSlightlyFlexibleUNet/ALCAPA/ALCAPA_Statistics.png" width="512" height="auto"><br>
 <br>
-As shown above, the number of images of train and valid datasets is not large enough to use for a training set of our segmentation model.
-
-therefore we used an online augmentation tool <a href="./src/ImageMaskAugmentor.py">ImageMaskAugmentor.py</a> 
+As shown above, the number of images of train and valid datasets is not large enough to use for a training set 
+of our segmentation model.
+Therefore we used an online augmentation tool <a href="./src/ImageMaskAugmentor.py">ImageMaskAugmentor.py</a> 
 to improve generalization performance.
 <br>
 
